@@ -1,2 +1,2 @@
 # Personal-Website
-A personal portfolio website. 
+A responsive personal portfolio website. 
